@@ -7,7 +7,7 @@
 A new way to search for the books you love.
 Bookify is a PWA written in React which you lets you search books from millions of collections.
 
-##Features
+## Features
 ### Completely Responsive
 Gives you the same experience for both web and mobile browsers.
 
