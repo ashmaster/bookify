@@ -1,0 +1,13 @@
+.filter-i{
+    margin: 1px 5px;
+    padding: 4px 3px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+@media only screen and (max-width: 600px) {
+    .filter-i{
+        padding: 2px 1px;
+        margin: 1px 3px;
+    }
+  }
