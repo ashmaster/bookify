@@ -20,4 +20,9 @@ You can search in title, author and publisher.
 ## Technologies used
 Uses React for frontend and uses Google Books API to search and retrieve the list of books.
 
+## How to run
+*Clone the app to your local repo.
+*Run npm install
+*Run npm start
+*Your local server will be started at localhost:3000
 
